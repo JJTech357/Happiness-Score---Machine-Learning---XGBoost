@@ -1,0 +1,1 @@
+This project is to Predict Happiness Score of different individuals based on 40+ different social behavioural data. I have used linear regression, XGBoost with hyperparameter tuning and other classification algorithms to create the Machine Learning Model.
